@@ -1,4 +1,6 @@
-<h2 align="left">Olá Mundo!!!<br>ERICSON SILVA</h2>
+<h2 align="left"><br>ERICSON SILVA</h2>
+
+**`DESENVOLVEDOR BACK-END | BANCO DE DADOS`**
 
 ###
 
@@ -9,10 +11,10 @@
 <h2 align="left">Estatísticas</h2>
 
 ###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ericsonssdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ericsonssdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ericsonssdev&show_icons=true&theme=gruvbox_light" alt="GitHub Stats"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericsonssdev&layout=compact&theme=gruvbox_light" alt="Linguagens mais usadas"/>
+</p>
 
 ###
 
